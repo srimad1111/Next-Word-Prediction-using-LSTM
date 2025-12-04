@@ -13,3 +13,4 @@ protobuf==3.20.*
 numpy
 pickle-mixin
 gunicorn
+typing_extensions>=4.7.0
